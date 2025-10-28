@@ -1,6 +1,5 @@
-composer.json
 {
-    "require": {
-        "php-amqplib/php-amqplib": "^3.7"
-    }
+  "require": {
+      "videlalvaro/php-amqplib": "2.5.*"
+  }
 }
